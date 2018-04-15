@@ -1,5 +1,6 @@
 #include <iostream>
 #include "src/graphics/window.h"
+//nihao
 int main()
 {
 	using namespace sparky;
