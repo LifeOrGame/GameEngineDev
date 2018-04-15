@@ -1,6 +1,6 @@
 #include <iostream>
 #include "src/graphics/window.h"
-
+//nfask
 int main()
 {
 	using namespace sparky;
